@@ -1,0 +1,115 @@
+body {
+    background-color: #e6e6e6;
+}
+
+.cabeçalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.foto {
+    margin: 74px 930px;
+    position: absolute;
+    width: 286px;
+}
+
+li {
+    display: inline-block;
+    margin: 8px;
+    font-size: 36px;
+}
+
+.quem-sou {
+    margin: 288px 22px;
+    position: relative;
+    font-size: 25px;
+}
+
+main {
+    display: flex;
+}
+
+.p-projetos {
+    margin: auto;
+    margin-top: 688px;
+    position: absolute;
+    margin-left: 432px;
+    font-size: 26px
+}
+
+a {
+    color: black;
+}
+
+.listas {
+    margin: 8px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    margin: 46px 69px;
+    font-size: 60px;
+}
+
+h2 {
+    margin: auto;
+    position: absolute;
+    margin-top: 561px;
+    margin-left: 572px;
+    font-size: 60px;
+}
+
+h3 {
+    position: absolute;
+    margin-top: 808px;
+    margin-left: 573px;
+    font-size: 60px;
+    align-items: center;
+}
+
+.primeiro :hover {
+    font-size: 29px;
+}
+
+.segundo :hover {
+    font-size: 29px;
+}
+
+.terceiro :hover {
+    font-size: 29px;
+}
+
+.icones {
+    display: inline-flex;
+    position: relative;
+    margin: auto;
+    margin-top: 882px;
+    margin-right: 473px;
+}
+
+.icone-linkedin {
+    position: relative;
+    margin: auto;
+    margin-top: 32px;
+    margin-right: 20px;
+    width: 44px;
+    border-radius: 13px;
+}
+
+.icone-whatsapp {
+    position: relative;
+    margin: auto;
+    margin-top: 32px;
+    margin-right: 6px;
+    width: 46px;
+    border-radius: 13px;
+}
+
+.numero {
+    font-size: 24px;
+    margin: 36px 3px;
+}
